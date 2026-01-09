@@ -11,7 +11,10 @@ This work proposes an enhanced DeepLabV3+ architecture for maritime semantic seg
 - Horizon-aware auxiliary learning
 - Boundary refinement
 
-The method is evaluated on the LaRS dataset.
+The method is evaluated on the LaRS (Lakes, Rivers, and Seas) dataset.
+
+Please download LaRS from the official source:
+https://lojzezust.github.io/lars-dataset/
 
 ## Requirements
 - Python 3.8+
