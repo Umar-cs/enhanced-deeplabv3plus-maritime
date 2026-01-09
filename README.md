@@ -1,4 +1,5 @@
 # Enhanced DeepLabV3+ for Maritime Scene Segmentation
+📌 This repository is archived on Zenodo with DOI: https://doi.org/10.5281/zenodo.18194849
 
 This repository contains the official implementation of the paper:
 
