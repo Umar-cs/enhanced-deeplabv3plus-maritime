@@ -3,8 +3,7 @@
 
 This repository contains the official implementation of the paper:
 
-**Enhanced DeepLabV3+ for Maritime Scene Segmentation: Attention Fusion and Horizon Learning**  
-Submitted to *The Visual Computer*.
+**Enhanced DeepLabV3+ for Maritime Scene Segmentation: Attention Fusion and Horizon Learning**
 
 ## Overview
 This work proposes an enhanced DeepLabV3+ architecture for maritime semantic segmentation, integrating:
